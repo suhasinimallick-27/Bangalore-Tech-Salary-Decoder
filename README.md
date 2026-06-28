@@ -20,7 +20,7 @@ Technologies Used:
 - Python
 - Pandas
 - NumPy
-- Google Colab
+- Google Colab - https://colab.research.google.com/drive/1bbK5Hph7YjnUN8p6lBGZXYcmtrdpG8e9?usp=sharing
 
 Key Features:
 
